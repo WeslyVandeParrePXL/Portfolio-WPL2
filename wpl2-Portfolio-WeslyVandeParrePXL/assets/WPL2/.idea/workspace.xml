@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42d2228f-6759-408c-b301-35abd0ae0dd0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../WPL2 case/GoHome visual + prototype.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WPL2 case/aanpassing logo en kleur.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WPL2 case/app.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WPL2 case/archtype.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WPL2 case/benchmark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WPL2 case/bullseye.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WPL2 case/closeup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WPL2 case/concept poster.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WPL2 case/logo en icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WPL2 case/missie visie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WPL2 case/mockups.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WPL2 case/moodboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WPL2 case/perona's.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WPL2 case/swot analyse.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2g5oNjBCIH1aMTv5OG7aYLVVkSP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42d2228f-6759-408c-b301-35abd0ae0dd0" name="Changes" comment="" />
+      <created>1714996762388</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714996762388</updated>
+      <workItem from="1714996763970" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
