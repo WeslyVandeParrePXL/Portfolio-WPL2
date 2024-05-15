@@ -9,6 +9,7 @@ function showProject() {
     if (selectedProject) {
         selectedProject.style.display = 'block';
     }
+
 }
 
 showProject();
